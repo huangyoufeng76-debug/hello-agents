@@ -11,10 +11,10 @@
   "dependencies": {
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
-    "mermaid": "^11.1.1"
+    "mermaid": "^11.15.0"
   },
   "devDependencies": {
     "@vitejs/plugin-react": "^4.3.1",
-    "vite": "^5.4.8"
+    "vite": "^8.0.12"
   }
 }
