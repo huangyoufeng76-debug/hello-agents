@@ -1,7 +1,7 @@
 hello-agents>=0.1.0
 python-dotenv>=1.0.0
 pydantic>=2.0.0
-pydantic-settings>=2.0.0
+pydantic-settings>=2.14.2
 
 # MCP 支持
 fastmcp>=2.0.0
