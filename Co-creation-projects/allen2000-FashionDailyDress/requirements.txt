@@ -6,7 +6,7 @@ fastmcp==2.13.1
 
 # Web界面
 requests==2.32.5
-gradio==4.44.1
+gradio==6.15.0
 
 # 环境变量管理
 dotenv==0.9.9
